@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.olareoun.utils</groupId>
+  <artifactId>collection-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130321074130</lastUpdated>
+  </versioning>
+</metadata>
